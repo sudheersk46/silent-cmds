@@ -1,0 +1,14 @@
+
+AcroRdrDC18.exe  /sAll
+7z1602-x64.exe /s
+FileZilla_3.21.0_win64-setup_bundled.exe /S
+FramePkg.exe /Silent
+Notepad++ /S
+"SkypeSetupFull (2).exe" /Silent
+msiexec /i TortoiseSVN-1.9.4.27285-x64-svn-1.9.4.msi /quiet /qn
+vlc-2.2.8-win32.exe /S
+java jdk java.exe /s
+'driver dpinstaler installe.exe /SW /SE
+
+driver.exe /S or /s
+
