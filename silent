@@ -12,3 +12,13 @@ java jdk java.exe /s
 
 driver.exe /S or /s
 
+##windows update
+wuas /?
+
+wuas /unistall /kb:no
+wuas /update /quiet path to gfile.msu
+
+##list update
+
+wmic qfe list
+
