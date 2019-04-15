@@ -22,3 +22,5 @@ wuas /update /quiet path to gfile.msu
 
 wmic qfe list
 
+get-hostfix# for powershell
+
